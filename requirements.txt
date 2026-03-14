@@ -1,0 +1,11 @@
+tensorflow>=2.12.0
+keras>=2.12.0
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+flask
+flask-cors
+Pillow
+scikit-image
