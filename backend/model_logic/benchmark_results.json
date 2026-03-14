@@ -1,0 +1,29 @@
+[
+    {
+        "name": "EfficientNet-B0",
+        "accuracy": 82.3,
+        "sensitivity": 82.3,
+        "specificity": 80.5,
+        "f1": 82.3,
+        "auc": 0.88,
+        "params": "5.3M"
+    },
+    {
+        "name": "ResNet-50",
+        "accuracy": 81.2,
+        "sensitivity": 83.5,
+        "specificity": 79.2,
+        "f1": 81.2,
+        "auc": 0.85,
+        "params": "25.6M"
+    },
+    {
+        "name": "DenseNet-121",
+        "accuracy": 82.5,
+        "sensitivity": 86.2,
+        "specificity": 80.5,
+        "f1": 84.0,
+        "auc": 0.88,
+        "params": "8.1M"
+    }
+]
